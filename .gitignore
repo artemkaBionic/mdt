@@ -13,7 +13,12 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+/*
+!/www
+foo/*
+!www/css/*.css
+!www/js/*.js
+!www/mim/*min*
 # =========================
 # Operating System Files
 # =========================
