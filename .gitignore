@@ -1,6 +1,6 @@
 /*
 !/www
-foo/*
+/www/*
 !www/css/*.css
 !www/js/*.js
 !www/mim/*min*
